@@ -93,7 +93,7 @@ def lop(message):
 
 try:
     if __name__ == "__main__":
-        print("Бот запущен проблем нет")
+        print("Бот запущен проблем нет 'loli'")
         bot.polling(non_stop=True)
 except Exception:
     print("Ошыбка")
